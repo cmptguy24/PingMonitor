@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PingMonitor")]
-[assembly: AssemblyCopyright("Copyright © IGT")]
+[assembly: AssemblyCopyright("Copyright © Company")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
